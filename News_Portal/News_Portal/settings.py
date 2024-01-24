@@ -222,3 +222,4 @@ ADMINS = (
 )
 
 EMAIL_SUBJECT_PREFIX = 'News Portal'
+
